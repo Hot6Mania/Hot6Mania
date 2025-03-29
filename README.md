@@ -5,6 +5,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ban4861)](https://solved.ac/ban4861/)
 
+[![CodeForces Profile](https://cf.leed.at?id=KasuAri)](https://codeforces.com/profile/KasuAri)
+
 <!--
 **Hot6Mania/Hot6Mania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
